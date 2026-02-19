@@ -26,6 +26,7 @@ The final output helps identify high-risk customers and supports data-driven ret
 
 The dataset contains **10,000 customer records** with banking attributes including demographics, financial activity, and account behavior.
 Dataset Link: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+
 Target Variable:
 
 * `Exited`
